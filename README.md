@@ -1,3 +1,5 @@
+@stcgoal What does semantic ui and SKETCH HAS IN COMMON ?
+
 # semantic-ui-kit-for-sketch
 
 creating an updated ui kit for the awesome http://semantic-ui.com/
